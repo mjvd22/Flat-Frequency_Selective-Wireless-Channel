@@ -6,6 +6,7 @@
     * Alamuti Code effect on error probability.
     * QPSK and BPSK difference.
 
+
   - In Frequency Selective Channel the following topics have been covered:
       * Using OFDM method for transmitting packets.
       * Finding length of packets due to channel delay.

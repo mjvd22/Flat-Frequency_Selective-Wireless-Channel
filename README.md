@@ -7,10 +7,10 @@
     * QPSK and BPSK difference.
 
 - In Frequency Selective Channel the following topics have been covered:
-      * Using OFDM method for transmitting packets.
-      * Finding length of packets due to channel delay.
-      * Using Waterfilling method and finding proper coefficient for each subchannel.
-      * Finding chennel capacity.
-      * Using MRC method.
-      * Using MMSE and ZF Equalizer.
-      * Implement Clipping.  
+   * Using OFDM method for transmitting packets.
+   * Finding length of packets due to channel delay.
+   * Using Waterfilling method and finding proper coefficient for each subchannel.
+   * Finding chennel capacity.
+   * Using MRC method.
+   * Using MMSE and ZF Equalizer.
+   * Implement Clipping.  
